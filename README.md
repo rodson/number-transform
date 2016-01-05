@@ -1,4 +1,4 @@
-# number-transform [![Build Status](https://travis-ci.org/rodson/number-transform.png?branch=master)](https://travis-ci.org/rodson/number-transform)
+# number-transform [![Build Status](https://travis-ci.org/rodson/number-transform.svg?branch=master)](https://travis-ci.org/rodson/number-transform)
 
 > An util for transforming number to chinese
 
