@@ -1,0 +1,23 @@
+{
+  "name": "number-transform",
+  "version": "0.1.0",
+  "description": "An util for transforming number to chinese",
+  "license": "MIT",
+  "repository": "rodsonluo/number-transform",
+  "author": {
+    "name": "Rodson Luo",
+    "email": "rodsonluo@gmail.com",
+    "url": "http://www.rodsonluo.com"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "number",
+    "transform",
+    "chinese"
+  ],
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
+}
